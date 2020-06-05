@@ -10,4 +10,4 @@ We used datasets from the following sources:
 
 Using these datasets, we carried out EDA, Data Visualizations and Inference Methods in order to identify patterns pertaining to the spread of COVID.
 
-Please read our report for our findings. You can refer to the code in the HTML file in order to recreate our visualizations and expirements.
+Please read our report for our findings.
